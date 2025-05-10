@@ -10,6 +10,8 @@ Populate only one of U1 or U2, never both!
 
 SW3 is redundand.
 
+You can use the <a href="https://github.com/mistepien/joytester/tree/main/production">gerber file<a> to order the PCB.
+
 BOM:
 | Qty	| Reference(s) | Description |
 |-----|--------------|-------------|
