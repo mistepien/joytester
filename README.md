@@ -6,6 +6,8 @@ Joytester for testing of Atari-like+ joysticks
 
 Joytester for testing Atari-like joysticks -- tests also Fire2 and Fire3 in C64 and Amiga/Atari mode.
 
+More about Amiga/Atari and C64 modes: <a href="https://wiki.icomp.de/wiki/File:JoystickMod.jpg">schematic of universal joystick<a>.
+
 Populate only one of U1 or U2, never both!
 
 SW3 is redundand.
