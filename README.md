@@ -1,3 +1,6 @@
+![alt text](https://github.com/mistepien/joytester/blob/main/top.svg)
+![alt text](https://github.com/mistepien/joytester/blob/main/bottom.svg)
+
 # joytester
 Joytester for Atari-like+ joysticks
 
