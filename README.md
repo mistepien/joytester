@@ -2,9 +2,9 @@
 ![alt text](https://github.com/mistepien/joytester/blob/main/bottom.svg)
 
 # joytester
-Joytester for Atari-like+ joysticks
+Joytester for testing of Atari-like+ joysticks
 
-Joytester to test Atari-like joystick -- tests also Fire2 and Fire3 in C64 and Amiga/Atari mode.
+Joytester for testing Atari-like joysticks -- tests also Fire2 and Fire3 in C64 and Amiga/Atari mode.
 
 Populate only one of U1 or U2, never both!
 
