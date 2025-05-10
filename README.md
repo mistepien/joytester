@@ -15,7 +15,7 @@ SW3 is redundand.
 You can use the <a href="https://github.com/mistepien/joytester/tree/main/production">gerber file<a> to order the PCB.
 
 Here you have <a href="https://github.com/mistepien/joytester/blob/main/joytester.pdf
-">the schematic file<a> to order the PCB.
+">the schematic file<a> to find out how does it work.
 
 
 BOM:
