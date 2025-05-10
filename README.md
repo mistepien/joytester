@@ -13,7 +13,7 @@ BOM:
 |10 | D1, D2, D3, D4, D5, D6, D7, D8, D9, D10 | LEDs 3mm |  
 |10 | R1, R2, R3, R4, R5, R6, R7, R8, R9, R10 | resisors for D1...D10 |
 |3 | R11, R12, R13 | 10KΩ pull-up/pull-down resistors |
-|1 | J1| DB9 Male Connector <a href="https://www.tme.eu/pl/en/details/ld09p13a4gx00lf/d-sub-plugs-and-sockets/amphenol-communications-solutions/">LD09P13A4GX00LF Amphenol</a> |
+|1 | J1| DB9 Male Connector ( eg. <a href="https://www.tme.eu/pl/en/details/ld09p13a4gx00lf/d-sub-plugs-and-sockets/amphenol-communications-solutions/">LD09P13A4GX00LF Amphenol</a>) |
 |1 | J2 | USB B socket |
 |1 | J3 | USB C power-only socket (eg.  <a href="https://www.tme.eu/pl/en/details/usb4125-gf-a/usb-ieee1394-connectors/gct/">USB4125-GF-AGCT</a> ) |
 | 2 | R14, R15 | 5K1Ω resistors for J3 USB C power-only socket |
