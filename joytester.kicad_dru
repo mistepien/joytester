@@ -1,0 +1,9 @@
+(version 1)
+(rule "Clearance between Pads of Different Nets"
+    (constraint clearance (min 0.2mm))
+    (condition "A.Type == 'Pad' && B.Type == 'Pad' && A.Net != B.Net"))
+
+(version 1)
+(rule "Pad to Track Clearance"
+    (constraint clearance (min 0.2mm))
+    (condition "A.Type == 'Pad' && B.Type == 'Track' && A.Net != B.Net"))
