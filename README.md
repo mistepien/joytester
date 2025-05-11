@@ -30,8 +30,8 @@ BOM:
 | 2 | R14, R15 | 5K1Ω resistors for J3 USB C power-only socket |
 |1 | J4 | USB B Mini socket |
 |1 | J5 | USB B Micro socket |
-|1 | U1 | DIP14 socket (width 7.62mm) + 4070IC or 4030IC XOR Gates|
-|1 | U2 | DIP14 socket (width 7.62mm) + 74HC86 XOR Gates |
+|1 | U1 | DIP14 socket (width 7.62mm) + 4070 IC or 4030 IC XOR Gates|
+|1 | U2 | DIP14 socket (width 7.62mm) + 74HC86 IC XOR Gates |
 |2| C1, C2 | decoupling capacitors for U2 | 
 |2| C3, C4 | decoupling capacitors for U1 | 
 |2 | SW1, SW2 | SPDT switches or 3x1 2.54mm pinheaders |
