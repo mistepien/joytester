@@ -26,7 +26,7 @@ BOM:
 |3 | R11, R12, R13 | 10KΩ pull-up/pull-down resistors |
 |1 | J1| DB9 Male Connector ( eg. <a href="https://www.tme.eu/pl/en/details/ld09p13a4gx00lf/d-sub-plugs-and-sockets/amphenol-communications-solutions/">LD09P13A4GX00LF Amphenol</a>) |
 |1 | J2 | USB B socket |
-|1 | J3 | USB C power-only socket (eg.  <a href="https://www.tme.eu/pl/en/details/usb4125-gf-a/usb-ieee1394-connectors/gct/">USB4125-GF-AGCT</a> ) |
+|1 | J3 | USB C power-only socket (eg.  <a href="https://www.tme.eu/pl/en/details/usb4125-gf-a/usb-ieee1394-connectors/gct/">USB4125-GF-A GCT</a> ) |
 | 2 | R14, R15 | 5K1Ω resistors for J3 USB C power-only socket |
 |1 | J4 | USB B Mini socket |
 |1 | J5 | USB B Micro socket |
