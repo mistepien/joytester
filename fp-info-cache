@@ -1,4 +1,4 @@
-47595469005950266
+47598983619503132
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -189924,12 +189924,26 @@ test point SMD pad rectangle square
 1
 1
 misc
+TestPoint_Pad_Circle_2.0mm
+SMD rectangular pad as test Point, square 1.0mm side length
+test point SMD pad rectangle square
+0
+1
+1
+misc
 UBM5BRDM144DLFSNL
 UB-M5BR-DM14-4D (LF)(SN)(L)-2
 Connector
 0
 7
 6
+misc
+UDPI
+Through hole straight pin header, 1x06, 1.27mm pitch, single row
+Through hole pin header THT 1x06 1.27mm single row
+0
+3
+3
 misc
 US8
 
