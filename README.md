@@ -6,16 +6,16 @@ Joytester for testing of Atari-like+ joysticks
 
 Joytester for testing Atari-like joysticks -- tests also FIRE2 nd FIRE3 in C64 and Amiga/Atari mode.
 
-More about Amiga/Atari and C64 modes: <a href="https://wiki.icomp.de/wiki/File:JoystickMod.jpg">schematic of universal joystick<a>.
+More about Amiga/Atari and C64 modes: <a href="https://wiki.icomp.de/wiki/File:JoystickMod.jpg">schematic of universal joystick</a>.
 
-Populate only one of U1 or U2, never both!
+<b>Populate only one of U1 or U2, never both!</b>
 
 SW3 is redundand.
 
-You can use the <a href="https://github.com/mistepien/joytester/tree/main/production">gerber file<a> to order the PCB.
+You can use the <a href="https://github.com/mistepien/joytester/tree/main/production">gerber file</a> to order the PCB.
 
 Here you have <a href="https://github.com/mistepien/joytester/blob/main/joytester.pdf
-">the schematic file<a> to find out how does it work.
+">the schematic file</a> to find out how does it work.
 
 
 BOM:
